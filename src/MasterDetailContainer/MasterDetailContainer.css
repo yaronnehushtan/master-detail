@@ -1,0 +1,13 @@
+.MasterDetailContainer> .container{
+    display: flex;
+    align-items: flex-start;
+}
+
+.MasterDetailContainer> .MuiBox-root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 240px;
+}
+
+

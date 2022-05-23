@@ -1,0 +1,7 @@
+.MasterDetailSidebar{
+  flex: 1;
+  height: 100vh;
+  box-sizing: border-box;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
